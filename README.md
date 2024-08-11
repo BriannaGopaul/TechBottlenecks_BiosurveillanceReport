@@ -44,4 +44,4 @@ While we initially hypothesized that technological bottlenecks were crucial to b
 
 We suspect that although much work can be done to improve biosurveillance technologies, we also urgently need more people working on addressing the less tangible non-technological bottlenecks. We believe that it would be useful to explore deeper into these non-technological bottlenecks and their potential solutions.
 
-See the full report in the repo for more details.
+See the full report [here](https://github.com/BriannaGopaul/Tech_Bottlenecks_Biosurveillance_Report/blob/main/Technological%20Bottlenecks%20for%20PCR%2C%20LAMP%2C%20and%20Metagenomics%20Sequencing.pdf).
